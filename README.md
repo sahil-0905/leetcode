@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/sahil-0905/leetcode/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sahil-0905/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/sahil-0905/leetcode/tree/master/0877-stone-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sahil-0905/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Stack
 |  |
@@ -68,4 +70,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sahil-0905/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sahil-0905/leetcode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sahil-0905/leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sahil-0905/leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sahil-0905/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
