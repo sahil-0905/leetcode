@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sahil-0905/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sahil-0905/leetcode/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/sahil-0905/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/sahil-0905/leetcode/tree/master/0743-network-delay-time) |
 | [3310-remove-methods-from-project](https://github.com/sahil-0905/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -27,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sahil-0905/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sahil-0905/leetcode/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/sahil-0905/leetcode/tree/master/0743-network-delay-time) |
 | [3310-remove-methods-from-project](https://github.com/sahil-0905/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sahil-0905/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sahil-0905/leetcode/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/sahil-0905/leetcode/tree/master/0743-network-delay-time) |
 | [3310-remove-methods-from-project](https://github.com/sahil-0905/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Math
 |  |
@@ -149,4 +152,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/sahil-0905/leetcode/tree/master/1510-stone-game-iv) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sahil-0905/leetcode/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sahil-0905/leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sahil-0905/leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
