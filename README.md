@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sahil-0905/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0877-stone-game](https://github.com/sahil-0905/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sahil-0905/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sahil-0905/leetcode/tree/master/1406-stone-game-iii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sahil-0905/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/sahil-0905/leetcode/tree/master/1140-stone-game-ii) |
 ## Nim Game
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sahil-0905/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahil-0905/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahil-0905/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
