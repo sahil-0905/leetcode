@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sahil-0905/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahil-0905/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/sahil-0905/leetcode/tree/master/0198-house-robber) |
+| [0347-top-k-frequent-elements](https://github.com/sahil-0905/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/sahil-0905/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/sahil-0905/leetcode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/sahil-0905/leetcode/tree/master/0877-stone-game) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sahil-0905/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/sahil-0905/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sahil-0905/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/sahil-0905/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sahil-0905/leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/sahil-0905/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/sahil-0905/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/sahil-0905/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/sahil-0905/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahil-0905/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sahil-0905/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/sahil-0905/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sahil-0905/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahil-0905/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sahil-0905/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2029-stone-game-ix](https://github.com/sahil-0905/leetcode/tree/master/2029-stone-game-ix) |
 ## Range Minimum/Maximum Query
 |  |
@@ -286,4 +291,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sahil-0905/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sahil-0905/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sahil-0905/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sahil-0905/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
