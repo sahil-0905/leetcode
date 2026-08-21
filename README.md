@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sahil-0905/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahil-0905/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahil-0905/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/sahil-0905/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahil-0905/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/sahil-0905/leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/sahil-0905/leetcode/tree/master/0217-contains-duplicate) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sahil-0905/leetcode/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/sahil-0905/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sahil-0905/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Counting
