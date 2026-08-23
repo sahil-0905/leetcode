@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sahil-0905/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sahil-0905/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sahil-0905/leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/sahil-0905/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sahil-0905/leetcode/tree/master/2029-stone-game-ix) |
 | [2485-find-the-pivot-integer](https://github.com/sahil-0905/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sahil-0905/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sahil-0905/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sahil-0905/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sahil-0905/leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/sahil-0905/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sahil-0905/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/sahil-0905/leetcode/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/sahil-0905/leetcode/tree/master/0242-valid-anagram) |
 | [1143-longest-common-subsequence](https://github.com/sahil-0905/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1927-sum-game](https://github.com/sahil-0905/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sahil-0905/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahil-0905/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sahil-0905/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/sahil-0905/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/sahil-0905/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sahil-0905/leetcode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahil-0905/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sahil-0905/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
