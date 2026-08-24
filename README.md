@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sahil-0905/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sahil-0905/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sahil-0905/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/sahil-0905/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sahil-0905/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sahil-0905/leetcode/tree/master/2029-stone-game-ix) |
 | [2485-find-the-pivot-integer](https://github.com/sahil-0905/leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/sahil-0905/leetcode/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/sahil-0905/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sahil-0905/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1872-stone-game-viii](https://github.com/sahil-0905/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sahil-0905/leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sahil-0905/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahil-0905/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sahil-0905/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sahil-0905/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sahil-0905/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/sahil-0905/leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahil-0905/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sahil-0905/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sahil-0905/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sahil-0905/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/sahil-0905/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sahil-0905/leetcode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sahil-0905/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sahil-0905/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sahil-0905/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/sahil-0905/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sahil-0905/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sahil-0905/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
@@ -167,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sahil-0905/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sahil-0905/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sahil-0905/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/sahil-0905/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sahil-0905/leetcode/tree/master/2029-stone-game-ix) |
 ## String
 |  |
@@ -213,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sahil-0905/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/sahil-0905/leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/sahil-0905/leetcode/tree/master/1872-stone-game-viii) |
 | [2485-find-the-pivot-integer](https://github.com/sahil-0905/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Nim Game
 |  |
