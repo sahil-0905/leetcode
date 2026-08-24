@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/sahil-0905/leetcode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/sahil-0905/leetcode/tree/master/0577-employee-bonus) |
 | [1068-product-sales-analysis-i](https://github.com/sahil-0905/leetcode/tree/master/1068-product-sales-analysis-i) |
+| [1280-students-and-examinations](https://github.com/sahil-0905/leetcode/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sahil-0905/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sahil-0905/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/sahil-0905/leetcode/tree/master/1661-average-time-of-process-per-machine) |
