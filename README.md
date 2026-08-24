@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/sahil-0905/leetcode/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/sahil-0905/leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/sahil-0905/leetcode/tree/master/0409-longest-palindrome) |
+| [0981-time-based-key-value-store](https://github.com/sahil-0905/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/sahil-0905/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1927-sum-game](https://github.com/sahil-0905/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sahil-0905/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sahil-0905/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/sahil-0905/leetcode/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/sahil-0905/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0981-time-based-key-value-store](https://github.com/sahil-0905/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1386-cinema-seat-allocation](https://github.com/sahil-0905/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahil-0905/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahil-0905/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sahil-0905/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahil-0905/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0981-time-based-key-value-store](https://github.com/sahil-0905/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1631-path-with-minimum-effort](https://github.com/sahil-0905/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sahil-0905/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Union-Find
@@ -352,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sahil-0905/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/sahil-0905/leetcode/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
