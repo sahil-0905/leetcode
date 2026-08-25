@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahil-0905/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/sahil-0905/leetcode/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/sahil-0905/leetcode/tree/master/0072-edit-distance) |
+| [0205-isomorphic-strings](https://github.com/sahil-0905/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sahil-0905/leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/sahil-0905/leetcode/tree/master/0409-longest-palindrome) |
 | [0981-time-based-key-value-store](https://github.com/sahil-0905/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sahil-0905/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahil-0905/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0205-isomorphic-strings](https://github.com/sahil-0905/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sahil-0905/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sahil-0905/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sahil-0905/leetcode/tree/master/0347-top-k-frequent-elements) |
