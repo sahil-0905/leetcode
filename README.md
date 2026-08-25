@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sahil-0905/leetcode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/sahil-0905/leetcode/tree/master/0043-multiply-strings) |
+| [0069-sqrtx](https://github.com/sahil-0905/leetcode/tree/master/0069-sqrtx) |
 | [0877-stone-game](https://github.com/sahil-0905/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sahil-0905/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sahil-0905/leetcode/tree/master/1406-stone-game-iii) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sahil-0905/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/sahil-0905/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahil-0905/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0981-time-based-key-value-store](https://github.com/sahil-0905/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -385,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/sahil-0905/leetcode/tree/master/0981-time-based-key-value-store) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sahil-0905/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
