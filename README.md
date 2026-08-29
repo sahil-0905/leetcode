@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/sahil-0905/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sahil-0905/leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sahil-0905/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahil-0905/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahil-0905/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahil-0905/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sahil-0905/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sahil-0905/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/sahil-0905/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sahil-0905/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahil-0905/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahil-0905/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/sahil-0905/leetcode/tree/master/0200-number-of-islands) |
 | [1631-path-with-minimum-effort](https://github.com/sahil-0905/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahil-0905/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
 |  |
 | ------- |
