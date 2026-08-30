@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sahil-0905/leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahil-0905/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/sahil-0905/leetcode/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/sahil-0905/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahil-0905/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sahil-0905/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahil-0905/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sahil-0905/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/sahil-0905/leetcode/tree/master/0072-edit-distance) |
+| [0120-triangle](https://github.com/sahil-0905/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahil-0905/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sahil-0905/leetcode/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/sahil-0905/leetcode/tree/master/0435-non-overlapping-intervals) |
