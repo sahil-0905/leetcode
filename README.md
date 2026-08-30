@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sahil-0905/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/sahil-0905/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahil-0905/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/sahil-0905/leetcode/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/sahil-0905/leetcode/tree/master/0072-edit-distance) |
