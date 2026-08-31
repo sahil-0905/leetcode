@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sahil-0905/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1872-stone-game-viii](https://github.com/sahil-0905/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sahil-0905/leetcode/tree/master/2029-stone-game-ix) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sahil-0905/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sahil-0905/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sahil-0905/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahil-0905/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -371,11 +372,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sahil-0905/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sahil-0905/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/sahil-0905/leetcode/tree/master/0043-multiply-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sahil-0905/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sahil-0905/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sahil-0905/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Linked List
 |  |
