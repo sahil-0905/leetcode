@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sahil-0905/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/sahil-0905/leetcode/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/sahil-0905/leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/sahil-0905/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahil-0905/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sahil-0905/leetcode/tree/master/0198-house-robber) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahil-0905/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/sahil-0905/leetcode/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/sahil-0905/leetcode/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/sahil-0905/leetcode/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/sahil-0905/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sahil-0905/leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/sahil-0905/leetcode/tree/master/0409-longest-palindrome) |
