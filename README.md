@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sahil-0905/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sahil-0905/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/sahil-0905/leetcode/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/sahil-0905/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/sahil-0905/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sahil-0905/leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/sahil-0905/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sahil-0905/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/sahil-0905/leetcode/tree/master/0200-number-of-islands) |
+| [0835-image-overlap](https://github.com/sahil-0905/leetcode/tree/master/0835-image-overlap) |
 | [1631-path-with-minimum-effort](https://github.com/sahil-0905/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sahil-0905/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sliding Window
