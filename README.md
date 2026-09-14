@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sahil-0905/leetcode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/sahil-0905/leetcode/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/sahil-0905/leetcode/tree/master/0069-sqrtx) |
+| [0836-rectangle-overlap](https://github.com/sahil-0905/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sahil-0905/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sahil-0905/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sahil-0905/leetcode/tree/master/1406-stone-game-iii) |
@@ -453,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sahil-0905/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sahil-0905/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
