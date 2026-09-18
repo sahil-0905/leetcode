@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/sahil-0905/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0981-time-based-key-value-store](https://github.com/sahil-0905/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/sahil-0905/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sahil-0905/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/sahil-0905/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sahil-0905/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahil-0905/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/sahil-0905/leetcode/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/sahil-0905/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1386-cinema-seat-allocation](https://github.com/sahil-0905/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sahil-0905/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/sahil-0905/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sahil-0905/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sahil-0905/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/sahil-0905/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1386-cinema-seat-allocation](https://github.com/sahil-0905/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sahil-0905/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sahil-0905/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahil-0905/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahil-0905/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sahil-0905/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sahil-0905/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/sahil-0905/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sahil-0905/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sahil-0905/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahil-0905/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahil-0905/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sahil-0905/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
