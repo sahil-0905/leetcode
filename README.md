@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sahil-0905/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/sahil-0905/leetcode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/sahil-0905/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/sahil-0905/leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/sahil-0905/leetcode/tree/master/0120-triangle) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/sahil-0905/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahil-0905/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sahil-0905/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sahil-0905/leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/sahil-0905/leetcode/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/sahil-0905/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/sahil-0905/leetcode/tree/master/0115-distinct-subsequences) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahil-0905/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/sahil-0905/leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/sahil-0905/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sahil-0905/leetcode/tree/master/0090-subsets-ii) |
 | [1096-brace-expansion-ii](https://github.com/sahil-0905/leetcode/tree/master/1096-brace-expansion-ii) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahil-0905/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sahil-0905/leetcode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sahil-0905/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahil-0905/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sahil-0905/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
